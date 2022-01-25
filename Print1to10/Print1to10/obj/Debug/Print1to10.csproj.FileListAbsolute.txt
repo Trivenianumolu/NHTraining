@@ -1,0 +1,7 @@
+D:\DotnetPrograms\Print1to10\Print1to10\obj\Debug\Print1to10.csproj.AssemblyReference.cache
+D:\DotnetPrograms\Print1to10\Print1to10\obj\Debug\Print1to10.csproj.CoreCompileInputs.cache
+D:\DotnetPrograms\Print1to10\Print1to10\bin\Debug\Print1to10.exe.config
+D:\DotnetPrograms\Print1to10\Print1to10\bin\Debug\Print1to10.exe
+D:\DotnetPrograms\Print1to10\Print1to10\bin\Debug\Print1to10.pdb
+D:\DotnetPrograms\Print1to10\Print1to10\obj\Debug\Print1to10.exe
+D:\DotnetPrograms\Print1to10\Print1to10\obj\Debug\Print1to10.pdb

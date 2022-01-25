@@ -1,0 +1,7 @@
+D:\DotnetPrograms\Hello5times\Hello5times\bin\Debug\Hello5times.exe.config
+D:\DotnetPrograms\Hello5times\Hello5times\bin\Debug\Hello5times.exe
+D:\DotnetPrograms\Hello5times\Hello5times\bin\Debug\Hello5times.pdb
+D:\DotnetPrograms\Hello5times\Hello5times\obj\Debug\Hello5times.csproj.AssemblyReference.cache
+D:\DotnetPrograms\Hello5times\Hello5times\obj\Debug\Hello5times.csproj.CoreCompileInputs.cache
+D:\DotnetPrograms\Hello5times\Hello5times\obj\Debug\Hello5times.exe
+D:\DotnetPrograms\Hello5times\Hello5times\obj\Debug\Hello5times.pdb
