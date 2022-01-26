@@ -1,0 +1,7 @@
+D:\DotnetPrograms\SumOfnNaturalNumbers\SumOfnNaturalNumbers\bin\Debug\SumOfnNaturalNumbers.exe.config
+D:\DotnetPrograms\SumOfnNaturalNumbers\SumOfnNaturalNumbers\bin\Debug\SumOfnNaturalNumbers.exe
+D:\DotnetPrograms\SumOfnNaturalNumbers\SumOfnNaturalNumbers\bin\Debug\SumOfnNaturalNumbers.pdb
+D:\DotnetPrograms\SumOfnNaturalNumbers\SumOfnNaturalNumbers\obj\Debug\SumOfnNaturalNumbers.csproj.AssemblyReference.cache
+D:\DotnetPrograms\SumOfnNaturalNumbers\SumOfnNaturalNumbers\obj\Debug\SumOfnNaturalNumbers.csproj.CoreCompileInputs.cache
+D:\DotnetPrograms\SumOfnNaturalNumbers\SumOfnNaturalNumbers\obj\Debug\SumOfnNaturalNumbers.exe
+D:\DotnetPrograms\SumOfnNaturalNumbers\SumOfnNaturalNumbers\obj\Debug\SumOfnNaturalNumbers.pdb

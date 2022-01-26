@@ -1,0 +1,7 @@
+D:\DotnetProjects\QuizApplication\QuizApplication\bin\Debug\QuizApplication.exe.config
+D:\DotnetProjects\QuizApplication\QuizApplication\bin\Debug\QuizApplication.exe
+D:\DotnetProjects\QuizApplication\QuizApplication\bin\Debug\QuizApplication.pdb
+D:\DotnetProjects\QuizApplication\QuizApplication\obj\Debug\QuizApplication.csproj.AssemblyReference.cache
+D:\DotnetProjects\QuizApplication\QuizApplication\obj\Debug\QuizApplication.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\QuizApplication\QuizApplication\obj\Debug\QuizApplication.exe
+D:\DotnetProjects\QuizApplication\QuizApplication\obj\Debug\QuizApplication.pdb

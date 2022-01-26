@@ -1,0 +1,6 @@
+D:\DotnetPrograms\FactorsOfNumber\FactorsOfNumber\obj\Debug\FactorsOfNumber.csproj.CoreCompileInputs.cache
+D:\DotnetPrograms\FactorsOfNumber\FactorsOfNumber\bin\Debug\FactorsOfNumber.exe.config
+D:\DotnetPrograms\FactorsOfNumber\FactorsOfNumber\bin\Debug\FactorsOfNumber.exe
+D:\DotnetPrograms\FactorsOfNumber\FactorsOfNumber\bin\Debug\FactorsOfNumber.pdb
+D:\DotnetPrograms\FactorsOfNumber\FactorsOfNumber\obj\Debug\FactorsOfNumber.exe
+D:\DotnetPrograms\FactorsOfNumber\FactorsOfNumber\obj\Debug\FactorsOfNumber.pdb

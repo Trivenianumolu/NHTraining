@@ -1,0 +1,6 @@
+D:\DotnetPrograms\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+D:\DotnetPrograms\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+D:\DotnetPrograms\MultiplicationTable\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+D:\DotnetPrograms\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\DotnetPrograms\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+D:\DotnetPrograms\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.pdb
