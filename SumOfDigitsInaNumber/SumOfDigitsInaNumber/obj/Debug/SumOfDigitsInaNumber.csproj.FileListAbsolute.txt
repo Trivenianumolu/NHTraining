@@ -1,0 +1,6 @@
+D:\DotnetProjects\SumOfDigitsInaNumber\SumOfDigitsInaNumber\bin\Debug\SumOfDigitsInaNumber.exe.config
+D:\DotnetProjects\SumOfDigitsInaNumber\SumOfDigitsInaNumber\bin\Debug\SumOfDigitsInaNumber.exe
+D:\DotnetProjects\SumOfDigitsInaNumber\SumOfDigitsInaNumber\bin\Debug\SumOfDigitsInaNumber.pdb
+D:\DotnetProjects\SumOfDigitsInaNumber\SumOfDigitsInaNumber\obj\Debug\SumOfDigitsInaNumber.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\SumOfDigitsInaNumber\SumOfDigitsInaNumber\obj\Debug\SumOfDigitsInaNumber.exe
+D:\DotnetProjects\SumOfDigitsInaNumber\SumOfDigitsInaNumber\obj\Debug\SumOfDigitsInaNumber.pdb

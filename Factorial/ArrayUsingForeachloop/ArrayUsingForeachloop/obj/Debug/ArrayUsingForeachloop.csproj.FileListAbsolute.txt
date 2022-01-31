@@ -1,0 +1,7 @@
+D:\DotnetProjects\ArrayUsingForeachloop\ArrayUsingForeachloop\obj\Debug\ArrayUsingForeachloop.csproj.AssemblyReference.cache
+D:\DotnetProjects\ArrayUsingForeachloop\ArrayUsingForeachloop\obj\Debug\ArrayUsingForeachloop.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\ArrayUsingForeachloop\ArrayUsingForeachloop\bin\Debug\ArrayUsingForeachloop.exe.config
+D:\DotnetProjects\ArrayUsingForeachloop\ArrayUsingForeachloop\bin\Debug\ArrayUsingForeachloop.exe
+D:\DotnetProjects\ArrayUsingForeachloop\ArrayUsingForeachloop\bin\Debug\ArrayUsingForeachloop.pdb
+D:\DotnetProjects\ArrayUsingForeachloop\ArrayUsingForeachloop\obj\Debug\ArrayUsingForeachloop.exe
+D:\DotnetProjects\ArrayUsingForeachloop\ArrayUsingForeachloop\obj\Debug\ArrayUsingForeachloop.pdb

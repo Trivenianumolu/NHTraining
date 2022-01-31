@@ -1,0 +1,6 @@
+D:\DotnetProjects\ArmstrongInGivenRange\ArmstrongInGivenRange\bin\Debug\ArmstrongInGivenRange.exe.config
+D:\DotnetProjects\ArmstrongInGivenRange\ArmstrongInGivenRange\bin\Debug\ArmstrongInGivenRange.exe
+D:\DotnetProjects\ArmstrongInGivenRange\ArmstrongInGivenRange\bin\Debug\ArmstrongInGivenRange.pdb
+D:\DotnetProjects\ArmstrongInGivenRange\ArmstrongInGivenRange\obj\Debug\ArmstrongInGivenRange.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\ArmstrongInGivenRange\ArmstrongInGivenRange\obj\Debug\ArmstrongInGivenRange.exe
+D:\DotnetProjects\ArmstrongInGivenRange\ArmstrongInGivenRange\obj\Debug\ArmstrongInGivenRange.pdb

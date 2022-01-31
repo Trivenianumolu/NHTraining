@@ -1,0 +1,6 @@
+D:\DotnetProjects\Armstrong number\Armstrong number\obj\Debug\Armstrong number.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\Armstrong number\Armstrong number\bin\Debug\Armstrong number.exe.config
+D:\DotnetProjects\Armstrong number\Armstrong number\bin\Debug\Armstrong number.exe
+D:\DotnetProjects\Armstrong number\Armstrong number\bin\Debug\Armstrong number.pdb
+D:\DotnetProjects\Armstrong number\Armstrong number\obj\Debug\Armstrong number.exe
+D:\DotnetProjects\Armstrong number\Armstrong number\obj\Debug\Armstrong number.pdb

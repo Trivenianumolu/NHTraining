@@ -1,0 +1,7 @@
+D:\DotnetProjects\ArmstrongUsingFunction\ArmstrongUsingFunction\bin\Debug\ArmstrongUsingFunction.exe.config
+D:\DotnetProjects\ArmstrongUsingFunction\ArmstrongUsingFunction\bin\Debug\ArmstrongUsingFunction.exe
+D:\DotnetProjects\ArmstrongUsingFunction\ArmstrongUsingFunction\bin\Debug\ArmstrongUsingFunction.pdb
+D:\DotnetProjects\ArmstrongUsingFunction\ArmstrongUsingFunction\obj\Debug\ArmstrongUsingFunction.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\ArmstrongUsingFunction\ArmstrongUsingFunction\obj\Debug\ArmstrongUsingFunction.exe
+D:\DotnetProjects\ArmstrongUsingFunction\ArmstrongUsingFunction\obj\Debug\ArmstrongUsingFunction.pdb
+D:\DotnetProjects\ArmstrongUsingFunction\ArmstrongUsingFunction\obj\Debug\ArmstrongUsingFunction.csproj.AssemblyReference.cache

@@ -4,3 +4,10 @@ D:\DotnetPrograms\FactorsOfNumber\FactorsOfNumber\bin\Debug\FactorsOfNumber.exe
 D:\DotnetPrograms\FactorsOfNumber\FactorsOfNumber\bin\Debug\FactorsOfNumber.pdb
 D:\DotnetPrograms\FactorsOfNumber\FactorsOfNumber\obj\Debug\FactorsOfNumber.exe
 D:\DotnetPrograms\FactorsOfNumber\FactorsOfNumber\obj\Debug\FactorsOfNumber.pdb
+D:\DotnetProjects\FactorsOfNumber\FactorsOfNumber\bin\Debug\FactorsOfNumber.exe.config
+D:\DotnetProjects\FactorsOfNumber\FactorsOfNumber\bin\Debug\FactorsOfNumber.exe
+D:\DotnetProjects\FactorsOfNumber\FactorsOfNumber\bin\Debug\FactorsOfNumber.pdb
+D:\DotnetProjects\FactorsOfNumber\FactorsOfNumber\obj\Debug\FactorsOfNumber.csproj.AssemblyReference.cache
+D:\DotnetProjects\FactorsOfNumber\FactorsOfNumber\obj\Debug\FactorsOfNumber.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\FactorsOfNumber\FactorsOfNumber\obj\Debug\FactorsOfNumber.exe
+D:\DotnetProjects\FactorsOfNumber\FactorsOfNumber\obj\Debug\FactorsOfNumber.pdb
