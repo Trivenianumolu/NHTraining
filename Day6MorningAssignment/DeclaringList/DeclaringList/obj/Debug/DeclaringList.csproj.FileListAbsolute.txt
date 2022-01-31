@@ -1,0 +1,6 @@
+D:\DotnetProjects\Day6MorningAssignment\DeclaringList\DeclaringList\bin\Debug\DeclaringList.exe.config
+D:\DotnetProjects\Day6MorningAssignment\DeclaringList\DeclaringList\bin\Debug\DeclaringList.exe
+D:\DotnetProjects\Day6MorningAssignment\DeclaringList\DeclaringList\bin\Debug\DeclaringList.pdb
+D:\DotnetProjects\Day6MorningAssignment\DeclaringList\DeclaringList\obj\Debug\DeclaringList.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\Day6MorningAssignment\DeclaringList\DeclaringList\obj\Debug\DeclaringList.exe
+D:\DotnetProjects\Day6MorningAssignment\DeclaringList\DeclaringList\obj\Debug\DeclaringList.pdb

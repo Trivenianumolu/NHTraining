@@ -1,0 +1,7 @@
+D:\DotnetProjects\Day6MorningAssignment\ListString\ListString\bin\Debug\ListString.exe.config
+D:\DotnetProjects\Day6MorningAssignment\ListString\ListString\bin\Debug\ListString.exe
+D:\DotnetProjects\Day6MorningAssignment\ListString\ListString\bin\Debug\ListString.pdb
+D:\DotnetProjects\Day6MorningAssignment\ListString\ListString\obj\Debug\ListString.csproj.AssemblyReference.cache
+D:\DotnetProjects\Day6MorningAssignment\ListString\ListString\obj\Debug\ListString.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\Day6MorningAssignment\ListString\ListString\obj\Debug\ListString.exe
+D:\DotnetProjects\Day6MorningAssignment\ListString\ListString\obj\Debug\ListString.pdb
