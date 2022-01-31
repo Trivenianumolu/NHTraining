@@ -1,0 +1,7 @@
+D:\DotnetProjects\Day6MorningAssignment\DeclaringArrayList\DeclaringArrayList\obj\Debug\DeclaringArrayList.csproj.AssemblyReference.cache
+D:\DotnetProjects\Day6MorningAssignment\DeclaringArrayList\DeclaringArrayList\obj\Debug\DeclaringArrayList.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\Day6MorningAssignment\DeclaringArrayList\DeclaringArrayList\bin\Debug\DeclaringArrayList.exe.config
+D:\DotnetProjects\Day6MorningAssignment\DeclaringArrayList\DeclaringArrayList\bin\Debug\DeclaringArrayList.exe
+D:\DotnetProjects\Day6MorningAssignment\DeclaringArrayList\DeclaringArrayList\bin\Debug\DeclaringArrayList.pdb
+D:\DotnetProjects\Day6MorningAssignment\DeclaringArrayList\DeclaringArrayList\obj\Debug\DeclaringArrayList.exe
+D:\DotnetProjects\Day6MorningAssignment\DeclaringArrayList\DeclaringArrayList\obj\Debug\DeclaringArrayList.pdb
