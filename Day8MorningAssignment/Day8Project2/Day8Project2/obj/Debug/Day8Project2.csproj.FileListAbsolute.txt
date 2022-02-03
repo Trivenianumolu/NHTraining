@@ -1,0 +1,7 @@
+D:\DotnetProjects\Day8Project2\Day8Project2\obj\Debug\Day8Project2.csproj.AssemblyReference.cache
+D:\DotnetProjects\Day8Project2\Day8Project2\obj\Debug\Day8Project2.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\Day8Project2\Day8Project2\bin\Debug\Day8Project2.exe.config
+D:\DotnetProjects\Day8Project2\Day8Project2\bin\Debug\Day8Project2.exe
+D:\DotnetProjects\Day8Project2\Day8Project2\bin\Debug\Day8Project2.pdb
+D:\DotnetProjects\Day8Project2\Day8Project2\obj\Debug\Day8Project2.exe
+D:\DotnetProjects\Day8Project2\Day8Project2\obj\Debug\Day8Project2.pdb
