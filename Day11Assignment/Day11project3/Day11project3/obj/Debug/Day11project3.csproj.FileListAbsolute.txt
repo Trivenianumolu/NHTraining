@@ -1,0 +1,7 @@
+D:\DotnetProjects\Day11Assignment\Day11project3\Day11project3\bin\Debug\Day11project3.exe.config
+D:\DotnetProjects\Day11Assignment\Day11project3\Day11project3\bin\Debug\Day11project3.exe
+D:\DotnetProjects\Day11Assignment\Day11project3\Day11project3\bin\Debug\Day11project3.pdb
+D:\DotnetProjects\Day11Assignment\Day11project3\Day11project3\obj\Debug\Day11project3.csproj.AssemblyReference.cache
+D:\DotnetProjects\Day11Assignment\Day11project3\Day11project3\obj\Debug\Day11project3.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\Day11Assignment\Day11project3\Day11project3\obj\Debug\Day11project3.exe
+D:\DotnetProjects\Day11Assignment\Day11project3\Day11project3\obj\Debug\Day11project3.pdb
