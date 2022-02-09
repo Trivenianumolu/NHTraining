@@ -1,0 +1,7 @@
+D:\DotnetProjects\Day13Assignment\Day13project3\Day13project3\bin\Debug\Day13project3.exe.config
+D:\DotnetProjects\Day13Assignment\Day13project3\Day13project3\bin\Debug\Day13project3.exe
+D:\DotnetProjects\Day13Assignment\Day13project3\Day13project3\bin\Debug\Day13project3.pdb
+D:\DotnetProjects\Day13Assignment\Day13project3\Day13project3\obj\Debug\Day13project3.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\Day13Assignment\Day13project3\Day13project3\obj\Debug\Day13project3.exe
+D:\DotnetProjects\Day13Assignment\Day13project3\Day13project3\obj\Debug\Day13project3.pdb
+D:\DotnetProjects\Day13Assignment\Day13project3\Day13project3\obj\Debug\Day13project3.csproj.AssemblyReference.cache
