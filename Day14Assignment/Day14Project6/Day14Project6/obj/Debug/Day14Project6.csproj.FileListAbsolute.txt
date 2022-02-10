@@ -1,0 +1,6 @@
+D:\DotnetProjects\Day14Assignment\Day14Project6\Day14Project6\bin\Debug\Day14Project6.exe.config
+D:\DotnetProjects\Day14Assignment\Day14Project6\Day14Project6\bin\Debug\Day14Project6.exe
+D:\DotnetProjects\Day14Assignment\Day14Project6\Day14Project6\bin\Debug\Day14Project6.pdb
+D:\DotnetProjects\Day14Assignment\Day14Project6\Day14Project6\obj\Debug\Day14Project6.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\Day14Assignment\Day14Project6\Day14Project6\obj\Debug\Day14Project6.exe
+D:\DotnetProjects\Day14Assignment\Day14Project6\Day14Project6\obj\Debug\Day14Project6.pdb
