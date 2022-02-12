@@ -1,0 +1,2 @@
+Hi
+This file is to be copied into new folder

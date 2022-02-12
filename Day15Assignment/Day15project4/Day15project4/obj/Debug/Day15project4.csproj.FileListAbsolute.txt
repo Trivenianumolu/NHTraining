@@ -1,0 +1,6 @@
+D:\DotnetProjects\Day15Assignment\Day15project4\Day15project4\bin\Debug\Day15project4.exe.config
+D:\DotnetProjects\Day15Assignment\Day15project4\Day15project4\bin\Debug\Day15project4.exe
+D:\DotnetProjects\Day15Assignment\Day15project4\Day15project4\bin\Debug\Day15project4.pdb
+D:\DotnetProjects\Day15Assignment\Day15project4\Day15project4\obj\Debug\Day15project4.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\Day15Assignment\Day15project4\Day15project4\obj\Debug\Day15project4.exe
+D:\DotnetProjects\Day15Assignment\Day15project4\Day15project4\obj\Debug\Day15project4.pdb
