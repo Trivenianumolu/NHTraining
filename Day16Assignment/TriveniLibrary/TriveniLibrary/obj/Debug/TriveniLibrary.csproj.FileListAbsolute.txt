@@ -1,0 +1,5 @@
+D:\DotnetProjects\Day16Assignment\TriveniLibrary\TriveniLibrary\bin\Debug\TriveniLibrary.dll
+D:\DotnetProjects\Day16Assignment\TriveniLibrary\TriveniLibrary\bin\Debug\TriveniLibrary.pdb
+D:\DotnetProjects\Day16Assignment\TriveniLibrary\TriveniLibrary\obj\Debug\TriveniLibrary.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\Day16Assignment\TriveniLibrary\TriveniLibrary\obj\Debug\TriveniLibrary.dll
+D:\DotnetProjects\Day16Assignment\TriveniLibrary\TriveniLibrary\obj\Debug\TriveniLibrary.pdb

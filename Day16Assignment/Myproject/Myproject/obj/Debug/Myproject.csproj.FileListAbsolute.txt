@@ -1,0 +1,2 @@
+D:\DotnetProjects\Day16Assignment\Myproject\Myproject\obj\Debug\Myproject.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\Day16Assignment\Myproject\Myproject\obj\Debug\Myproject.csproj.AssemblyReference.cache

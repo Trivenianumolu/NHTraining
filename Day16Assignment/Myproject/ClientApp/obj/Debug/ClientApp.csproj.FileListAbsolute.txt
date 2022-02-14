@@ -1,0 +1,12 @@
+D:\DotnetProjects\Day16Assignment\Myproject\ClientApp\bin\Debug\ClientApp.exe.config
+D:\DotnetProjects\Day16Assignment\Myproject\ClientApp\bin\Debug\ClientApp.exe
+D:\DotnetProjects\Day16Assignment\Myproject\ClientApp\bin\Debug\ClientApp.pdb
+D:\DotnetProjects\Day16Assignment\Myproject\ClientApp\bin\Debug\PublicLibrary.dll
+D:\DotnetProjects\Day16Assignment\Myproject\ClientApp\bin\Debug\TriveniALibrary.dll
+D:\DotnetProjects\Day16Assignment\Myproject\ClientApp\bin\Debug\PublicLibrary.pdb
+D:\DotnetProjects\Day16Assignment\Myproject\ClientApp\bin\Debug\TriveniALibrary.pdb
+D:\DotnetProjects\Day16Assignment\Myproject\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+D:\DotnetProjects\Day16Assignment\Myproject\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\Day16Assignment\Myproject\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
+D:\DotnetProjects\Day16Assignment\Myproject\ClientApp\obj\Debug\ClientApp.exe
+D:\DotnetProjects\Day16Assignment\Myproject\ClientApp\obj\Debug\ClientApp.pdb

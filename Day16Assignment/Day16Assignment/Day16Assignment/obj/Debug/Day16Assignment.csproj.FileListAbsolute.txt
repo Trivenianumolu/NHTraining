@@ -1,0 +1,10 @@
+D:\DotnetProjects\Day16Assignment\Day16Assignment\Day16Assignment\bin\Debug\Day16Assignment.exe.config
+D:\DotnetProjects\Day16Assignment\Day16Assignment\Day16Assignment\bin\Debug\Day16Assignment.exe
+D:\DotnetProjects\Day16Assignment\Day16Assignment\Day16Assignment\bin\Debug\Day16Assignment.pdb
+D:\DotnetProjects\Day16Assignment\Day16Assignment\Day16Assignment\bin\Debug\TriveniLibrary.dll
+D:\DotnetProjects\Day16Assignment\Day16Assignment\Day16Assignment\bin\Debug\TriveniLibrary.pdb
+D:\DotnetProjects\Day16Assignment\Day16Assignment\Day16Assignment\obj\Debug\Day16Assignment.csproj.AssemblyReference.cache
+D:\DotnetProjects\Day16Assignment\Day16Assignment\Day16Assignment\obj\Debug\Day16Assignment.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\Day16Assignment\Day16Assignment\Day16Assignment\obj\Debug\Day16Assignment.csproj.CopyComplete
+D:\DotnetProjects\Day16Assignment\Day16Assignment\Day16Assignment\obj\Debug\Day16Assignment.exe
+D:\DotnetProjects\Day16Assignment\Day16Assignment\Day16Assignment\obj\Debug\Day16Assignment.pdb
