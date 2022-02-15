@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriveniAnumoluLibrary", "TriveniAnumoluLibrary\TriveniAnumoluLibrary.csproj", "{4AC6CC5F-572C-4704-8C5A-30043F59053A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicLibrary", "PublicLibrary\PublicLibrary.csproj", "{6EAAA1EC-D557-422B-8018-480BF73A226B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC6CC5F-572C-4704-8C5A-30043F59053A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC6CC5F-572C-4704-8C5A-30043F59053A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC6CC5F-572C-4704-8C5A-30043F59053A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC6CC5F-572C-4704-8C5A-30043F59053A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EAAA1EC-D557-422B-8018-480BF73A226B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EAAA1EC-D557-422B-8018-480BF73A226B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EAAA1EC-D557-422B-8018-480BF73A226B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EAAA1EC-D557-422B-8018-480BF73A226B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E17EEC3A-2A56-434E-9ECA-58D63D1DFDA0}
+	EndGlobalSection
+EndGlobal

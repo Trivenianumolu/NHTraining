@@ -1,0 +1,2 @@
+D:\DotnetProjects\Day17Assignment\TriveniAnumoluLibrary\PublicLibrary\obj\Debug\PublicLibrary.csproj.AssemblyReference.cache
+D:\DotnetProjects\Day17Assignment\TriveniAnumoluLibrary\PublicLibrary\obj\Debug\PublicLibrary.csproj.CoreCompileInputs.cache
