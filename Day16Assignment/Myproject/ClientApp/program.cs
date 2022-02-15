@@ -14,9 +14,11 @@ namespace ClientApp
         {
             //Mathematics m = new Mathematics();
             Console.WriteLine(Mathematics.Fact(5));
-            Physics p = new Physics();
-            Console.WriteLine(p.Force(7, 8));
+            //Physics p = new Physics();
+            //Console.WriteLine(p.Force(7, 8));
+            Console.WriteLine(Mathematics.Add(7,8));
             Console.ReadLine();
+            
         }
     }
 }

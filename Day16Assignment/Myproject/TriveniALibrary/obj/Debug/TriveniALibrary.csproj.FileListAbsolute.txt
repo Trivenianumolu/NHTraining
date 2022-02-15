@@ -3,3 +3,4 @@ D:\DotnetProjects\Day16Assignment\Myproject\TriveniALibrary\bin\Debug\TriveniALi
 D:\DotnetProjects\Day16Assignment\Myproject\TriveniALibrary\obj\Debug\TriveniALibrary.csproj.CoreCompileInputs.cache
 D:\DotnetProjects\Day16Assignment\Myproject\TriveniALibrary\obj\Debug\TriveniALibrary.dll
 D:\DotnetProjects\Day16Assignment\Myproject\TriveniALibrary\obj\Debug\TriveniALibrary.pdb
+D:\DotnetProjects\Day16Assignment\Myproject\TriveniALibrary\obj\Debug\TriveniALibrary.csproj.AssemblyReference.cache

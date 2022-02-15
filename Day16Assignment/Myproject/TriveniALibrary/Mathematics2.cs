@@ -8,14 +8,9 @@ namespace TriveniALibrary
 {
     public static partial class Mathematics
     {
-        
-        public static int Fact(int n)
+        public static int Add(int a, int b)
         {
-            int fact = 1;
-            for (int i = 1; i <= n; i++)
-                fact = fact * i;
-            return fact;
+            return a + b;
         }
-
     }
 }

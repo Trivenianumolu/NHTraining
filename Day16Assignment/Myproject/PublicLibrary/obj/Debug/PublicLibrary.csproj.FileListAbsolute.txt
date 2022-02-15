@@ -3,4 +3,3 @@ D:\DotnetProjects\Day16Assignment\Myproject\PublicLibrary\bin\Debug\PublicLibrar
 D:\DotnetProjects\Day16Assignment\Myproject\PublicLibrary\obj\Debug\PublicLibrary.csproj.CoreCompileInputs.cache
 D:\DotnetProjects\Day16Assignment\Myproject\PublicLibrary\obj\Debug\PublicLibrary.dll
 D:\DotnetProjects\Day16Assignment\Myproject\PublicLibrary\obj\Debug\PublicLibrary.pdb
-D:\DotnetProjects\Day16Assignment\Myproject\PublicLibrary\obj\Debug\PublicLibrary.csproj.AssemblyReference.cache
