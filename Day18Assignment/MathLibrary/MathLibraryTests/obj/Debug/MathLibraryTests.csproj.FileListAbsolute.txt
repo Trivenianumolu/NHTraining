@@ -1,0 +1,16 @@
+D:\DotnetProjects\Day18Assignment\MathLibrary\MathLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DotnetProjects\Day18Assignment\MathLibrary\MathLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DotnetProjects\Day18Assignment\MathLibrary\MathLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DotnetProjects\Day18Assignment\MathLibrary\MathLibraryTests\bin\Debug\MathLibraryTests.dll
+D:\DotnetProjects\Day18Assignment\MathLibrary\MathLibraryTests\bin\Debug\MathLibraryTests.pdb
+D:\DotnetProjects\Day18Assignment\MathLibrary\MathLibraryTests\bin\Debug\MathLibrary.dll
+D:\DotnetProjects\Day18Assignment\MathLibrary\MathLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DotnetProjects\Day18Assignment\MathLibrary\MathLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DotnetProjects\Day18Assignment\MathLibrary\MathLibraryTests\bin\Debug\MathLibrary.pdb
+D:\DotnetProjects\Day18Assignment\MathLibrary\MathLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\DotnetProjects\Day18Assignment\MathLibrary\MathLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DotnetProjects\Day18Assignment\MathLibrary\MathLibraryTests\obj\Debug\MathLibraryTests.csproj.AssemblyReference.cache
+D:\DotnetProjects\Day18Assignment\MathLibrary\MathLibraryTests\obj\Debug\MathLibraryTests.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\Day18Assignment\MathLibrary\MathLibraryTests\obj\Debug\MathLibraryTests.csproj.CopyComplete
+D:\DotnetProjects\Day18Assignment\MathLibrary\MathLibraryTests\obj\Debug\MathLibraryTests.dll
+D:\DotnetProjects\Day18Assignment\MathLibrary\MathLibraryTests\obj\Debug\MathLibraryTests.pdb
