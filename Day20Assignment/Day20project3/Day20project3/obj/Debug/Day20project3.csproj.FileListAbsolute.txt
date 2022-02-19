@@ -1,0 +1,7 @@
+D:\DotnetProjects\Day20Assignment\Day20project3\Day20project3\bin\Debug\Day20project3.exe.config
+D:\DotnetProjects\Day20Assignment\Day20project3\Day20project3\bin\Debug\Day20project3.exe
+D:\DotnetProjects\Day20Assignment\Day20project3\Day20project3\bin\Debug\Day20project3.pdb
+D:\DotnetProjects\Day20Assignment\Day20project3\Day20project3\obj\Debug\Day20project3.csproj.AssemblyReference.cache
+D:\DotnetProjects\Day20Assignment\Day20project3\Day20project3\obj\Debug\Day20project3.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\Day20Assignment\Day20project3\Day20project3\obj\Debug\Day20project3.exe
+D:\DotnetProjects\Day20Assignment\Day20project3\Day20project3\obj\Debug\Day20project3.pdb
