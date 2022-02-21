@@ -1,0 +1,6 @@
+D:\DotnetProjects\Day21Assignment\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.AssemblyReference.cache
+D:\DotnetProjects\Day21Assignment\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.SuggestedBindingRedirects.cache
+D:\DotnetProjects\Day21Assignment\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+D:\DotnetProjects\Day21Assignment\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\DotnetProjects\Day21Assignment\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+D:\DotnetProjects\Day21Assignment\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache

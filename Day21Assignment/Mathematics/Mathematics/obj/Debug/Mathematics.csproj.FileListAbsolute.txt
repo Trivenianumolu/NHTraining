@@ -1,0 +1,8 @@
+D:\DotnetProjects\Day21Assignment\Mathematics\Mathematics\bin\Debug\Mathematics.exe.config
+D:\DotnetProjects\Day21Assignment\Mathematics\Mathematics\bin\Debug\Mathematics.exe
+D:\DotnetProjects\Day21Assignment\Mathematics\Mathematics\bin\Debug\Mathematics.pdb
+D:\DotnetProjects\Day21Assignment\Mathematics\Mathematics\obj\Debug\Mathematics.csproj.AssemblyReference.cache
+D:\DotnetProjects\Day21Assignment\Mathematics\Mathematics\obj\Debug\Mathematics.csproj.SuggestedBindingRedirects.cache
+D:\DotnetProjects\Day21Assignment\Mathematics\Mathematics\obj\Debug\Mathematics.csproj.CoreCompileInputs.cache
+D:\DotnetProjects\Day21Assignment\Mathematics\Mathematics\obj\Debug\Mathematics.exe
+D:\DotnetProjects\Day21Assignment\Mathematics\Mathematics\obj\Debug\Mathematics.pdb
