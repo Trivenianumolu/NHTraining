@@ -1,0 +1,13 @@
+C:\Users\91832\Desktop\TriveniFinalProject\MyClientApp\bin\Debug\MyClientApp.exe.config
+C:\Users\91832\Desktop\TriveniFinalProject\MyClientApp\bin\Debug\MyClientApp.exe
+C:\Users\91832\Desktop\TriveniFinalProject\MyClientApp\bin\Debug\MyClientApp.pdb
+C:\Users\91832\Desktop\TriveniFinalProject\MyClientApp\bin\Debug\BusinessLogicLibrary.dll
+C:\Users\91832\Desktop\TriveniFinalProject\MyClientApp\bin\Debug\DataAccessLibrary.dll
+C:\Users\91832\Desktop\TriveniFinalProject\MyClientApp\bin\Debug\BusinessLogicLibrary.pdb
+C:\Users\91832\Desktop\TriveniFinalProject\MyClientApp\bin\Debug\DataAccessLibrary.pdb
+C:\Users\91832\Desktop\TriveniFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.AssemblyReference.cache
+C:\Users\91832\Desktop\TriveniFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\91832\Desktop\TriveniFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.CoreCompileInputs.cache
+C:\Users\91832\Desktop\TriveniFinalProject\MyClientApp\obj\Debug\MyClientApp.csproj.CopyComplete
+C:\Users\91832\Desktop\TriveniFinalProject\MyClientApp\obj\Debug\MyClientApp.exe
+C:\Users\91832\Desktop\TriveniFinalProject\MyClientApp\obj\Debug\MyClientApp.pdb

@@ -1,0 +1,9 @@
+C:\Users\91832\Desktop\TriveniFinalProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.dll
+C:\Users\91832\Desktop\TriveniFinalProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.pdb
+C:\Users\91832\Desktop\TriveniFinalProject\BusinessLogicLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\91832\Desktop\TriveniFinalProject\BusinessLogicLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\91832\Desktop\TriveniFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.AssemblyReference.cache
+C:\Users\91832\Desktop\TriveniFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\91832\Desktop\TriveniFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CopyComplete
+C:\Users\91832\Desktop\TriveniFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.dll
+C:\Users\91832\Desktop\TriveniFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.pdb

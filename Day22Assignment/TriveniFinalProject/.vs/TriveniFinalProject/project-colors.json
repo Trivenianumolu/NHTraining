@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5b5b5985-d24e-431a-9c16-f07e6865d0e6": {
+      "ProjectGuid": "5b5b5985-d24e-431a-9c16-f07e6865d0e6",
+      "DisplayName": "TriveniFinalProject",
+      "ColorIndex": 0
+    },
+    "4a09d363-980f-4059-92c9-49b2c9d0e022": {
+      "ProjectGuid": "4a09d363-980f-4059-92c9-49b2c9d0e022",
+      "DisplayName": "DataAccessLibrary",
+      "ColorIndex": 1
+    },
+    "3ee31013-dd4d-4a5b-b216-641b7abf392b": {
+      "ProjectGuid": "3ee31013-dd4d-4a5b-b216-641b7abf392b",
+      "DisplayName": "BusinessLogicLibrary",
+      "ColorIndex": 2
+    },
+    "6a512f99-0e55-4eb6-b467-955aeb238c90": {
+      "ProjectGuid": "6a512f99-0e55-4eb6-b467-955aeb238c90",
+      "DisplayName": "MyClientApp",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
